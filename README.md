@@ -63,9 +63,3 @@ data.shape()
 Feel Free to suggest an improvemet in this project.
 
 This is a work from my 4th semester in Computer Enginnering from Saffrony Institute of Technology. Also I was assigned this project work from the Nano Degree course of [Autonomous Vehicles](https://www.elitetechnogroups.com/internship/best-course-for-autonomous-vehicle-using-advanced-ml-ai-iot.php) by [Elite Techno Groups](https://www.elitetechnogroups.com/) in April 2022.
-
-#### Thanks for visiting : ####
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Arnav1145/count.svg" />
-</p>
