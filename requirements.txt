@@ -1,0 +1,6 @@
+You need to install the following libraries for making this model:
+1. tensorflow==2.8.0
+2. numpy==1.21.4
+3. pandas==1.4.2
+4. opencv-python==4.5.5.64
+5. matplotlib==3.5.1
